@@ -10,7 +10,7 @@
 * Exploratory Data Analysis and Multiple Linear Regression
 * Flatiron Data Science course Appendix to Module 2 practice project
 * Uses Scikit-Learn and Statsmodels OLS
-* Key considerations: Assumptions checks (residuals normality and homoskedasticity)
+* Key considerations: Assumptions checks (residuals normality and homoskedasticity), Variance Inflation Factor
 
 **3 California Housing Project**
 * An end to end Regression ML Project
