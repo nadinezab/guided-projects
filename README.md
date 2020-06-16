@@ -1,10 +1,11 @@
 # Guided-projects
 
 **1 Boston Housing Project**
-* Exploratory Data Analysis and Multiple Linear Regression
-* Compiled from Flatiron Data Science Module 2 Labs
+* Exploratory Data Analysis and Regression modelling
+* Compiled from Flatiron Data Science Labs
 * Uses Scikit-Learn and Statsmodels OLS
-* Key considerations: Feature scaling, feature selection (RFE and stepwise), interacting features
+* Multiple Linear Regression, Lasso Regression, Decision Trees
+* Key considerations: Feature scaling, feature selection (RFE and stepwise), interacting features, AIC/BIC evaluation
 
 **2 Lego Pricing Project**
 * Exploratory Data Analysis and Multiple Linear Regression
