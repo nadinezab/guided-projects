@@ -24,3 +24,8 @@
 * Compiled from Flatiron Data Science Module 3 Labs
 * Uses Scikit-Learn and own functions (implemented logistic regression from scratch using gradient descent)
 * Key consideratiosn: evaluation metrics (confusion matrix, precision, recall, accuracy, f1 score, ROC, AUC and visualisations)
+
+**5 Big Mart Sales Project**
+* Regression Project making use of Pipelines
+* Following tutorial from Analytics Vidhya
+* Key considerations: Pipeling, custom Transformer, Category_encoders package
