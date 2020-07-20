@@ -29,3 +29,8 @@
 * Regression Project making use of Pipelines
 * Following tutorial from Analytics Vidhya
 * Key considerations: Pipeling, custom Transformer, Category_encoders package
+
+**6 Clustering**
+* Clustering from scratch using Loan Prediction data and with sklearn using Wholesale Customer data
+* Following tutorial from Analytics Vidhya
+* Key considerations: K-means clustering, Elbow plot
