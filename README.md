@@ -34,3 +34,9 @@
 * Clustering from scratch using Loan Prediction data and with sklearn using Wholesale Customer data
 * Following tutorial from Analytics Vidhya
 * Key considerations: K-means clustering, Elbow plot
+
+**7 Movie Recommendations**
+* Collaborative recommendation engine using Movie Lens dataset
+* From scratch following tutorial from Analytics Vidhya
+* Using Surprise package
+* Key considerations: SVD, KNNbasic, user i/o
