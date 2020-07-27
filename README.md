@@ -36,7 +36,7 @@
 * Key considerations: K-means clustering, Elbow plot
 
 **7 Movie Recommendations**
-* Collaborative recommendation engine using Movie Lens dataset
-* From scratch following tutorial from Analytics Vidhya
-* Using Surprise package
-* Key considerations: SVD, KNNbasic, user i/o
+* Recommendation engine using Movie Lens 100k dataset
+* From scratch, using Turicreate and using Suprise libraries 
+* Following tutorial from Analytics Vidhya and material from Flatiron Data Science course
+* Key considerations: collaborative filtering, SVD, user I/O
