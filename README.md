@@ -40,3 +40,14 @@
 * From scratch, using Turicreate and using Suprise libraries 
 * Following tutorial from Analytics Vidhya and material from Flatiron Data Science course
 * Key considerations: collaborative filtering, SVD, user I/O
+
+
+**8 Airline Forecasting**
+* Time series analysis
+* Compiled from material from Flatiron Data Science course
+
+**9 Fashion MNIST**
+* Classification using Neural Networks
+* Following Chapter 10 of *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*, 2nd Edition by Aurélien Géron
+* Using Keras/ Tensorflow
+* Key considerations: sequential model, callbacks and early stopping, gridsearchCV
